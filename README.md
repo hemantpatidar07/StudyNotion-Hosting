@@ -1,1 +1,1 @@
-# StudyNotion-Hosting
+# StudyNotion Edtech Project
