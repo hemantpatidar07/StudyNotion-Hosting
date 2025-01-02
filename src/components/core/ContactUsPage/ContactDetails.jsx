@@ -15,12 +15,12 @@ const contactDetails = [
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "C-DAC Sector-62 , Noida, Uttar Pradesh 201309",
+      "B-Block, Sector-62 , Noida, Uttar Pradesh 201309",
   },
   {
     icon: "IoCall",
     heading: "Call us",
-    description: "Mon - Fri From 8am to 5pm",
+    description: "Mon - Fri From 9am to 5pm",
     details: "1234567890",
   },
 ]
